@@ -1,2 +1,17 @@
-# student-performance-data-analysis
-Top Metrics are summary numbers displayed at the top of the Dashboard to provide a quick overview of key data, including Average Exam Score, Top Study Hours, and Average Attendance. They highlight overall performance and trends at a glance, making the dashboard immediately informative.
+Student Performance Data Analysis
+
+This project analyzes factors affecting student exam performance using Excel.
+
+Dataset includes 6600+ students with variables such as study hours, attendance,
+sleep, family income, and motivation level.
+
+Analysis Techniques
+- Pivot tables
+- VLOOKUP, IF, SUMIF formulas
+- Data categorization
+- Interactive dashboard
+
+Key Insights
+- Relationship between study hours and exam scores
+- Impact of sleep and attendance
+- Performance comparison by gender and school type
